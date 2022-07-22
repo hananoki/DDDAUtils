@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="..\HananokiLib\HListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="..\HananokiLib\LogWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="..\HananokiLib\TextBoxGuide.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="O:\Projects\CSTools\DDDAUtils\HananokiLib\HListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="O:\Projects\CSTools\DDDAUtils\HananokiLib\LogWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="O:\Projects\CSTools\DDDAUtils\HananokiLib\TextBoxGuide.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Source\Control\Control_AbilitySelect.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\Control\Control_EditParam.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\Control\Control_Equip.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\Control\Control_JobSelect.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\Control\Control_LevelSlider.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\Control\Control_NormalSkill.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\Control\Control_SkillComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\CustomListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Source\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Source\MainFormFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Source\Control\Control_SkillGroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\Control\Control_TalkComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\Control\Control_Personality.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\Control\Control_ResetButtons.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\UI\UIPage_Ability.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\UI\UIPage_Settings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\UI\UIPage_BackupFiles.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\UI\UIPage_EditData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\UI\UIPage_Equip.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\UI\UIPage_Personality.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\UI\UIPage_Skill.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\UI\UIPage_Status.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\UI\UIPage_SystemData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Source\UI\UIPage_TalkPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

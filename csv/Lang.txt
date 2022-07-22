@@ -1,0 +1,10 @@
+mHumanBodyAll	身長（低い⇔高い）
+mBodySlender	体重（軽い⇔重い）
+mBodyMuscle	筋肉量（少ない⇔多い）
+mBustScale	バスト（小さい⇔大きい）
+mHumanBody	胴
+mHumanArm	腕
+mHumanLeg	脚
+mPosture	姿勢（かがむ⇔そらす）
+mMovement	動き（女らしい⇔男らしい）
+
